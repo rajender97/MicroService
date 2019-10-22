@@ -1,0 +1,13 @@
+/home/cgi/Desktop/MicroService/MuzixTasks/src/main/java/com/stackroute/Muzix/domain/Track.java
+/home/cgi/Desktop/MicroService/MuzixTasks/src/main/java/com/stackroute/Muzix/SeedData/CommandLineRunnerData.java
+/home/cgi/Desktop/MicroService/MuzixTasks/src/main/java/com/stackroute/Muzix/Config/AdviceController.java
+/home/cgi/Desktop/MicroService/MuzixTasks/src/main/java/com/stackroute/Muzix/service/DummyTrackServiceImpl.java
+/home/cgi/Desktop/MicroService/MuzixTasks/src/main/java/com/stackroute/Muzix/exception/TrackNotFoundException.java
+/home/cgi/Desktop/MicroService/MuzixTasks/src/main/java/com/stackroute/Muzix/Controller/TrackController.java
+/home/cgi/Desktop/MicroService/MuzixTasks/src/main/java/com/stackroute/Muzix/service/TrackServiceImpl.java
+/home/cgi/Desktop/MicroService/MuzixTasks/src/main/java/com/stackroute/Muzix/SeedData/ApplicationListenerData.java
+/home/cgi/Desktop/MicroService/MuzixTasks/src/main/java/com/stackroute/Muzix/exception/TrackAlreadyExistsException.java
+/home/cgi/Desktop/MicroService/MuzixTasks/src/main/java/com/stackroute/Muzix/service/TrackService.java
+/home/cgi/Desktop/MicroService/MuzixTasks/src/main/java/com/stackroute/Muzix/Repository/TrackRepository.java
+/home/cgi/Desktop/MicroService/MuzixTasks/src/main/java/com/stackroute/Muzix/MuzixApplication.java
+/home/cgi/Desktop/MicroService/MuzixTasks/src/main/java/com/stackroute/Muzix/Config/WebConfiguration.java
